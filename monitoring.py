@@ -1,4 +1,4 @@
-impogiyrt pandas as pd
+import pandas as pd
 import numpy as np
 
 # Training baseline stats (replace with real values if needed)
@@ -81,4 +81,5 @@ if __name__ == "__main__":
     if should_retrain(drift_result):
         print("⚠ Drift detected! Model retraining required.")
     else:
+
         print("✅ Model is stable. No retraining needed.")
