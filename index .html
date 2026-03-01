@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SmartReads AI - Predict Score</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <h2>📚 SmartReads AI</h2>
+        <ul>
+            <li class="active">Predict Score</li>
+            <li>Dashboard</li>
+            <li>Monitoring</li>
+        </ul>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main">
+
+        <h1>Predict Book Score</h1>
+
+        <div class="content">
+
+           <!-- Book Details -->
+<div class="card">
+    <h3>Book Details</h3>
+
+    <label>Book Title</label>
+    <input type="text" id="title" value="Invisible Women">
+
+    <label>Author</label>
+    <input type="text" id="author" value="Caroline Criado Perez">
+
+    <label>Ratings Count</label>
+    <input type="number" id="ratingsCount" value="75000">
+
+    <label>Current Average Rating</label>
+    <input type="number" step="0.01" id="averageRating" value="4.35">
+
+    <button onclick="generatePrediction()">Generate Prediction</button>
+</div>
+
+<!-- Prediction Result -->
+<div class="card result">
+    <h3>Prediction Result</h3>
+
+    <p><strong>Book:</strong> <span id="resultTitle">--</span></p>
+    <p><strong>Author:</strong> <span id="resultAuthor">--</span></p>
+
+    <div class="prediction-value" id="prediction">
+        --
+    </div>
+
+    <p>Predicted Score</p>
+</div>
+</div>
+</div>
+
+        </div>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
