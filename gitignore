@@ -1,7 +1,30 @@
-git add .
+# Virtual Environment
 .venv/
+venv/
+env/
+
+# Python cache
 __pycache__/
 *.pyc
-.env
+*.pyo
+*.pyd
+
+# MLflow
 mlruns/
-model/
+mlflow.db
+
+# Large files
+*.exe
+*.zip
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
