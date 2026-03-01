@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Barath kumaran S/Documents/kiki intern/mlruns/353564119607006064/36dc320655fb474fbff976d62917942b/artifacts
+end_time: 1772364767401
+entry_point_name: ''
+experiment_id: '353564119607006064'
+lifecycle_stage: active
+run_id: 36dc320655fb474fbff976d62917942b
+run_name: Tuned_Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772364760046
+status: 3
+tags: []
+user_id: Barath kumaran S

@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Barath kumaran S/Documents/kiki intern/mlruns/353564119607006064/models/m-6e6a6ea7c57347a6bbdfbae932abc4be/artifacts
+creation_timestamp: 1772364760368
+experiment_id: '353564119607006064'
+last_updated_timestamp: 1772364767374
+model_id: m-6e6a6ea7c57347a6bbdfbae932abc4be
+model_type: null
+name: model
+source_run_id: 36dc320655fb474fbff976d62917942b
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Barath%20kumaran%20S/Documents/kiki%20intern/mlruns/0/models/m-5b2b465b1fe34bd9b1006a25d3ffc116/artifacts
+creation_timestamp: 1772358817942
+experiment_id: '0'
+last_updated_timestamp: 1772358829878
+model_id: m-5b2b465b1fe34bd9b1006a25d3ffc116
+model_type: null
+name: random_forest_model
+source_run_id: 477fcff821f244b79f798ec76a596e6d
+status: 2
+status_message: null

@@ -1,0 +1,7 @@
+git add .
+.venv/
+__pycache__/
+*.pyc
+.env
+mlruns/
+model/
