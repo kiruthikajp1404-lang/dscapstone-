@@ -19,10 +19,10 @@ Input:
 ## Screenshots
 
 ### Swagger API
-![Swagger](screenshots/swagger.png)
+![Swagger](https://github.com/kiruthikajp1404-lang/dscapstone-/blob/master/screenshots/fastapi%201.png)
 
 ### Prediction Output
-![Prediction](screenshots/prediction.png)
+![Prediction](https://github.com/kiruthikajp1404-lang/dscapstone-/blob/master/screenshots/fastapi%202.png)
 
 ### Docker Running
-![Docker](screenshots/docker.png)
+![Docker](https://github.com/kiruthikajp1404-lang/dscapstone-/blob/master/screenshots/docker%20image.png)
